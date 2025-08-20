@@ -1,13 +1,13 @@
 <!-- Ganti placeholder di bawah ini -->
 <div align="center">
-  <img src="[URL_LOGO_ANDA_JIKA_ADA]" alt="EVMRadar Agent Logo" width="150"/>
+  <img src="[https://res.cloudinary.com/dh7yebawk/image/upload/v1755655911/sadasd_iekxni.png]" alt="EVMRadar AI Logo" width="150"/>
   <h1>EVMRadar Agent</h1>
   <p>
     <b>A powerful, open-source framework to build your own persona-driven AI buy alert bots on the Sei EVM network.</b>
   </p>
   
   <p>
-    <a href="https://github.com/[NAMA_USER_ANDA]/[NAMA_REPO_ANDA]/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
+    <a href="https://github.com/[gigaevm]/[EVMRadar-AI]/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
     <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram">
@@ -16,7 +16,6 @@
 
 ---
 
-![Bot Screenshot in Action]([URL_SCREENSHOT_NOTIFIKASI_ANDA])
 
 ## ✨ Core Features
 
