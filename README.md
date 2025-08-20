@@ -10,7 +10,9 @@
     <a href="https://github.com/[gigaevm]/[EVMRadar-AI]/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
     <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="https://t.me/gigaradarlounge">
+<a href="https://t.me/gigaradarlounge" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Join Telegram">
+</a>
   </p>
 </div>
 
