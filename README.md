@@ -1,6 +1,6 @@
 <!-- Ganti placeholder di bawah ini -->
 <div align="center">
-  <img src="[https://res.cloudinary.com/dh7yebawk/image/upload/v1755655911/sadasd_iekxni.png]" alt="EVMRadar AI Logo" width="150"/>
+
   <h1>EVMRadar Agent</h1>
   <p>
     <b>A powerful, open-source framework to build your own persona-driven AI buy alert bots on the Sei EVM network.</b>
@@ -10,7 +10,7 @@
     <a href="https://github.com/[gigaevm]/[EVMRadar-AI]/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
     <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="https://t.me/gigaradarlounge">
   </p>
 </div>
 
@@ -71,7 +71,7 @@ Set up your environment variables by making a copy of the example file:
 ```bash
 cp .env.example .env
 ```
-Now, open the newly created `.env` file and fill in your secret API keys and configuration details.
+Now, open`.env.example` file and fill in your secret API keys and configuration details. > delete .example 
 
 ### 4. 🎨 Customize Your AI Persona!
 
